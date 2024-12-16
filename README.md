@@ -1,4 +1,4 @@
-# Bonjour, je suis [JEAN Maxime] 👋
+# Bonjour, je suis JEAN Maxime 👋
 
 Je suis développeur junior pour la société **Dévéo**
 
